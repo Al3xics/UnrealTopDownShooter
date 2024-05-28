@@ -14,7 +14,7 @@ There is currently no in-game menu. To exit the game, please press `ALT + F4`.
 
 ## Download and Play
 
-You can download the game by visiting my itch.io page to download the game named "Unreal Top Down Shooter" :
+You can download the game by visiting my itch.io page to download the game named `Unreal Top Down Shooter` :
 - [al3xics.itch.io](https://al3xics.itch.io/)
 
 ## Installation
