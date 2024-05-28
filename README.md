@@ -19,7 +19,7 @@ You can download the game by visiting my itch.io page to download the game named
 
 ## Installation
 
-1. Download the `UnrealTopDownShooter.zip` file from the link above.
+1. Download the file from the link above.
 2. Extract the contents of the zip file to your desired location.
 3. Run the executable file to start the game.
 
